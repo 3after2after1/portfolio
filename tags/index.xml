@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Bala</title>
+    <link>https://3after2after1.github.io/portfolio/tags/</link>
+    <description>Recent content in Tags on Bala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://3after2after1.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Manipulation</title>
+      <link>https://3after2after1.github.io/portfolio/tags/data-manipulation/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://3after2after1.github.io/portfolio/tags/data-manipulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://3after2after1.github.io/portfolio/tags/data-visualization/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://3after2after1.github.io/portfolio/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://3after2after1.github.io/portfolio/tags/python/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://3after2after1.github.io/portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Analysis</title>
+      <link>https://3after2after1.github.io/portfolio/tags/statistical-analysis/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://3after2after1.github.io/portfolio/tags/statistical-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>https://3after2after1.github.io/portfolio/tags/image-processing/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://3after2after1.github.io/portfolio/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scene</title>
+      <link>https://3after2after1.github.io/portfolio/tags/scene/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://3after2after1.github.io/portfolio/tags/scene/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
